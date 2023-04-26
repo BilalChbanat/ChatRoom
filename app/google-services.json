@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899445120807",
+    "project_id": "chatapp-feaa3",
+    "storage_bucket": "chatapp-feaa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899445120807:android:77d728fb608556919cd302",
+        "android_client_info": {
+          "package_name": "com.example.chatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899445120807-2kgtp1286c6ugm9ra75vttupo61qmmst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9JsgVBUc0ZezWJsPzwlixp8GuaxcEg9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899445120807-2kgtp1286c6ugm9ra75vttupo61qmmst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
